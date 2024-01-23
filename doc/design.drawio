@@ -1,0 +1,49 @@
+<mxfile host="Electron" modified="2023-11-23T03:26:49.284Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="V2b9b1_Fgm6ggiE2GTPt" version="22.1.2" type="device">
+  <diagram name="第 1 页" id="mKm56Jnsln5Joxa1WhCV">
+    <mxGraphModel dx="1194" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ygAt92EKvOpcykG2-KUw-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontFamily=Garamond;fontSize=14;" edge="1" parent="1" source="ygAt92EKvOpcykG2-KUw-4" target="ygAt92EKvOpcykG2-KUw-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ygAt92EKvOpcykG2-KUw-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Garamond;fontSize=14;dashed=1;" edge="1" parent="1" source="ygAt92EKvOpcykG2-KUw-4" target="ygAt92EKvOpcykG2-KUw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ygAt92EKvOpcykG2-KUw-4" value="函数资源包" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=Garamond;fontSize=14;fillColor=#663300;fontColor=#FFFFFF;strokeColor=#FFFFFF;" diagramCategory="general" diagramName="oval" vertex="1" parent="1">
+          <mxGeometry x="280" y="255" width="350" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ygAt92EKvOpcykG2-KUw-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Garamond;fontSize=14;" edge="1" parent="1" source="ygAt92EKvOpcykG2-KUw-6" target="ygAt92EKvOpcykG2-KUw-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ygAt92EKvOpcykG2-KUw-6" value="service" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=14;fillColor=#0066CC;strokeColor=#FFFFFF;fontColor=#FFFFFF;" diagramCategory="general" diagramName="oval" vertex="1" parent="1">
+          <mxGeometry x="12" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ygAt92EKvOpcykG2-KUw-7" value="common" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=14;fillColor=#999900;strokeColor=#FFFFFF;fontColor=#FFFFFF;" diagramCategory="general" diagramName="oval" vertex="1" parent="1">
+          <mxGeometry x="210" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ygAt92EKvOpcykG2-KUw-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Garamond;fontSize=14;fontColor=#FFF2CC;strokeColor=#FFF2CC;" edge="1" parent="1" source="ygAt92EKvOpcykG2-KUw-9" target="ygAt92EKvOpcykG2-KUw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ygAt92EKvOpcykG2-KUw-9" value="library" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=14;fillColor=#FF3399;fontColor=#FFFFFF;strokeColor=#FFFFFF;" diagramCategory="general" diagramName="oval" vertex="1" parent="1">
+          <mxGeometry x="290" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ygAt92EKvOpcykG2-KUw-10" value="library-common" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=14;fillColor=#99004D;fontColor=#FFFFFF;strokeColor=#FFFFFF;" diagramCategory="general" diagramName="oval" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ygAt92EKvOpcykG2-KUw-11" value="动态加载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Garamond;fontSize=14;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="170" y="355" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ygAt92EKvOpcykG2-KUw-12" value="静态依赖" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Garamond;fontSize=14;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ygAt92EKvOpcykG2-KUw-13" value="静态依赖" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Garamond;fontSize=14;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ygAt92EKvOpcykG2-KUw-14" value="静态依赖" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Garamond;fontSize=14;fontColor=#CCCCFF;" vertex="1" parent="1">
+          <mxGeometry x="415" y="325" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
